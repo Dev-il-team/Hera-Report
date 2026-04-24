@@ -192,7 +192,7 @@ Alfaro Coveñas, Louis Piero (u20191b299)
 # <a name="_heading=h.nbg6pah72qg3"></a>**Student Outcome**
 1. # <a name="_heading=h.iv3t72wpl8ge"></a>**Capítulo I: Introducción**
    1. ## <a name="_heading=h.cef4nj5tp5jz"></a>**Startup Profile**
-   
+ 
    La startup propuesta se enfoca en el desarrollo de soluciones tecnológicas orientadas a la automatización y gestión de hogares inteligentes mediante el uso de tecnologías IoT (Internet of Things). Su principal objetivo es ofrecer una plataforma web centralizada que permita a los usuarios controlar, monitorear y optimizar los dispositivos inteligentes de su vivienda de manera sencilla, segura y eficiente.
 La empresa busca posicionarse en el sector de la domótica, ofreciendo un software innovador que integre múltiples dispositivos en un solo sistema, eliminando la necesidad de utilizar diversas aplicaciones independientes para cada dispositivo.
 
@@ -462,8 +462,8 @@ A continuación, se presenta el Lean UX Canvas del proyecto:
 
 imagen canva
 
-A continuación, se presenta el Lean UX Canvas del proyecto (ver enlace):
-https://canva.link/8pfv4avhjqinc36
+[A continuación, se adjunta el enlace del canva](https://canva.link/8pfv4avhjqinc36)
+
 
    1. ## <a name="_heading=h.u9rq93k9sjtu"></a>**Segmentos objetivo**
       
