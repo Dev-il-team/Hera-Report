@@ -62,43 +62,7 @@ Alfaro Coveñas, Louis Piero (u20191b299)
 
 [2.1](#_heading=h.ljhxf313n4wx)[	](#_heading=h.ljhxf313n4wx)Competidores	4
 
-**Orvibo Perú:**
-
-![Logo ORVIBO PERÚ](https://cdn.discordapp.com/attachments/708833636480188436/1497349794832711812/image.png?ex=69ed332a&is=69ebe1aa&hm=4af7abc329e3e4ad3670f1863269cf9ac333670d18419f75f972fd7ec3569c94&)
-
-ORVIBO es un proveedor de soluciones integrales para el hogar inteligente. Ha desarrollado una amplia gama de productos, con más de 1000 patentes, incluyendo paneles de control inteligentes, iluminación, interruptores, seguridad, cortinas, sistemas de climatización y entretenimiento.
-
-**Smart House Perú:**
-
-![Logo SMART HOUSE PERU](https://cdn.discordapp.com/attachments/708833636480188436/1497350263806361692/image.png?ex=69ed339a&is=69ebe21a&hm=563d601e6bd7162c28a77ba75a90c027f14fda76ee23f2bebb5877ae4daed904&)
-
-Empresa reconocida en soluciones tecnológicas y de confort con altos estándares de calidad. Ofrece servicios con procesos automatizados para satisfacer las necesidades de seguridad y bienestar del cliente mediante tecnología de punta.
-
-**E-Activa:**
-
-![Logo ACTIVA](https://cdn.discordapp.com/attachments/708833636480188436/1497350297763184730/image.png?ex=69ed33a2&is=69ebe222&hm=bfc4ffac33cc70bf13474425af0f75c0cefce9ef15816cfcd717f1c525e50b22&)
-
-Equipo de profesionales con 15 años de experiencia en la automatización de espacios para proyectos residenciales. Su visión es entregar alternativas tecnológicas de verdadera funcionalidad a sus clientes.
-
 [2.1.1](#_heading=h.ujj48hrqdi0c)[	](#_heading=h.ujj48hrqdi0c)Análisis competitivo	4
-
-**Competitive Analysis Landscape**
-Al completar este cuadro identificamos nuestras diferencias frente a la competencia y descubrimos en qué aspectos podemos mejorar para tomar decisiones inteligentes en beneficio de la empresa.
-
-| Criterio | Nuestro startup | Orvibo Perú | Smart House Perú | E-Activa |
-| :--- | :--- | :--- | :--- | :--- |
-| **Perfil / Overview** | Empresa tecnológica dedicada al desarrollo de una aplicación web responsive para la gestión integral de hogares inteligentes. | Proveedor de soluciones integrales para el hogar inteligente. | Empresa reconocida en soluciones tecnológicas y de confort con altos estándares de calidad. | Equipo de profesionales experto en el servicio de automatización de espacios residenciales. |
-| **Ventaja competitiva** | Ofrecer una plataforma web para controlar, monitorear y optimizar dispositivos de manera sencilla, segura y eficiente. | Cuenta con más de 1000 patentes en paneles, iluminación, interruptores y seguridad. | Satisfacer necesidades de confort y seguridad con productos exclusivos de tecnología de punta. | Entregar alternativas tecnológicas de verdadera funcionalidad a sus clientes. |
-| **Mercado objetivo** | Propietarios de hogares inteligentes y de viviendas que desean automatizarse. | Propietarios de hogares inteligentes y de viviendas que desean automatizarse. | Propietarios de hogares inteligentes. | Propietarios de viviendas que desean automatizarse. |
-| **Estrategias de marketing** | Publicidad en redes sociales y descuentos para primeros clientes. | Demuestran con datos el ahorro energético real en casa. | Presencia en 4 países; primeros en establecerse en Latinoamérica. | Fortalecen el vínculo con sus clientes a lo largo de los años. |
-| **Productos & Servicios** | Plataforma digital para interacción con dispositivos IoT del hogar. | Seguridad, luces, audio y jardines inteligentes. | Automatización de oficinas, residenciales e inmobiliarias. | Sensores, domótica y conectividad wi-fi. |
-| **Precios & Costos** | Precio base variable acorde al desempeño del negocio. | No explícitos en web; ofrecen descuentos. | Su página web no es explícita con los precios. | Su página web no es explícita con los precios. |
-| **Canales de distribución** | Web y móvil. | Web y móvil. | Web y móvil. | Principalmente Web. |
-| **Fortalezas** | Sencillez y facilidad de manejo de la plataforma. | Gran cantidad de agencias a lo largo de Lima. | Cercanía con el cliente al describir los valores de sus empleados. | Soporte técnico: indican solución de inconvenientes en máximo 48 horas. |
-| **Debilidades** | Pocos usuarios iniciales para obtener métricas de mejora. | Landing page con mal diseño en tamaño y ubicación de videos. | Información de productos poco visible en su landing page. | Aparece debajo de la competencia en búsquedas; falta inversión en publicidad. |
-| **Oportunidades** | Recomendación boca a boca de clientes satisfechos. | Tendencia creciente de los ciudadanos a modernizarse. | Opción de capacitación para trabajar con la empresa. | El mercado de la modernización tiene buen futuro. |
-| **Amenazas** | Líderes del mercado con mayor cantidad de usuarios fieles. | Imágenes engañosas que pueden generar críticas por altas expectativas. | Nombre genérico que puede ser pasado por alto en búsquedas. | No es exclusiva para domicilios, abarca también constructoras. |
-
 
 [2.1.2](#_heading=h.my5j2aczngvl)[	](#_heading=h.my5j2aczngvl)Estrategias y tácticas frente a competidores	4
 
@@ -307,7 +271,44 @@ Representación de los eventos del sistema: Inicio de sesión -> Ingreso satisfa
    1. ## <a name="_heading=h.u9rq93k9sjtu"></a>**Segmentos objetivo**
 1. # <a name="_heading=h.mpt88vqezrd5"></a>**Capítulo II: Requirements Elicitation & Analysis**
    1. ## <a name="_heading=h.ljhxf313n4wx"></a>**Competidores**
+   
+   **Orvibo Perú:**
+
+   ![Logo ORVIBO PERÚ](https://cdn.discordapp.com/attachments/708833636480188436/1497349794832711812/image.png?ex=69ed332a&is=69ebe1aa&hm=4af7abc329e3e4ad3670f1863269cf9ac333670d18419f75f972fd7ec3569c94&)
+
+   ORVIBO es un proveedor de soluciones integrales para el hogar inteligente. Ha desarrollado una amplia gama de productos, con más de 1000 patentes, incluyendo paneles de control inteligentes, iluminación, interruptores, seguridad, cortinas, sistemas de climatización y entretenimiento.
+
+   **Smart House Perú:**
+
+   ![Logo SMART HOUSE PERU](https://cdn.discordapp.com/attachments/708833636480188436/1497350263806361692/image.png?ex=69ed339a&is=69ebe21a&hm=563d601e6bd7162c28a77ba75a90c027f14fda76ee23f2bebb5877ae4daed904&)
+
+   Empresa reconocida en soluciones tecnológicas y de confort con altos estándares de calidad. Ofrece servicios con procesos automatizados para satisfacer las necesidades de seguridad y bienestar del cliente mediante tecnología de punta.
+
+   **E-Activa:**
+
+   ![Logo ACTIVA](https://cdn.discordapp.com/attachments/708833636480188436/1497350297763184730/image.png?ex=69ed33a2&is=69ebe222&hm=bfc4ffac33cc70bf13474425af0f75c0cefce9ef15816cfcd717f1c525e50b22&)
+
+   Equipo de profesionales con 15 años de experiencia en la automatización de espacios para proyectos residenciales. Su visión es entregar alternativas tecnológicas de verdadera funcionalidad a sus clientes.
+
       1. ### <a name="_heading=h.ujj48hrqdi0c"></a>**Análisis competitivo**
+
+         **Competitive Analysis Landscape**
+   Al completar este cuadro identificamos nuestras diferencias frente a la competencia y descubrimos en qué aspectos podemos mejorar para tomar decisiones inteligentes en beneficio de la empresa.
+
+   | Criterio | Nuestro startup | Orvibo Perú | Smart House Perú | E-Activa |
+   | :--- | :--- | :--- | :--- | :--- |
+   | **Perfil / Overview** | Empresa tecnológica dedicada al desarrollo de una aplicación web responsive para la gestión integral de hogares inteligentes. | Proveedor de soluciones integrales para el hogar inteligente. | Empresa reconocida en soluciones tecnológicas y de confort con altos estándares de calidad. | Equipo de profesionales experto en el servicio de automatización de espacios residenciales. |
+   | **Ventaja competitiva** | Ofrecer una plataforma web para controlar, monitorear y optimizar dispositivos de manera sencilla, segura y eficiente. | Cuenta con más de 1000 patentes en paneles, iluminación, interruptores y seguridad. | Satisfacer necesidades de confort y seguridad con productos exclusivos de tecnología de punta. | Entregar alternativas tecnológicas de verdadera funcionalidad a sus clientes. |
+   | **Mercado objetivo** | Propietarios de hogares inteligentes y de viviendas que desean automatizarse. | Propietarios de hogares inteligentes y de viviendas que desean automatizarse. | Propietarios de hogares inteligentes. | Propietarios de viviendas que desean automatizarse. |
+   | **Estrategias de marketing** | Publicidad en redes sociales y descuentos para primeros clientes. | Demuestran con datos el ahorro energético real en casa. | Presencia en 4 países; primeros en establecerse en Latinoamérica. | Fortalecen el vínculo con sus clientes a lo largo de los años. |
+   | **Productos & Servicios** | Plataforma digital para interacción con dispositivos IoT del hogar. | Seguridad, luces, audio y jardines inteligentes. | Automatización de oficinas, residenciales e inmobiliarias. | Sensores, domótica y conectividad wi-fi. |
+   | **Precios & Costos** | Precio base variable acorde al desempeño del negocio. | No explícitos en web; ofrecen descuentos. | Su página web no es explícita con los precios. | Su página web no es explícita con los precios. |
+   | **Canales de distribución** | Web y móvil. | Web y móvil. | Web y móvil. | Principalmente Web. |
+   | **Fortalezas** | Sencillez y facilidad de manejo de la plataforma. | Gran cantidad de agencias a lo largo de Lima. | Cercanía con el cliente al describir los valores de sus empleados. | Soporte técnico: indican solución de inconvenientes en máximo 48 horas. |
+   | **Debilidades** | Pocos usuarios iniciales para obtener métricas de mejora. | Landing page con mal diseño en tamaño y ubicación de videos. | Información de productos poco visible en su landing page. | Aparece debajo de la competencia en búsquedas; falta inversión en publicidad. |
+   | **Oportunidades** | Recomendación boca a boca de clientes satisfechos. | Tendencia creciente de los ciudadanos a modernizarse. | Opción de capacitación para trabajar con la empresa. | El mercado de la modernización tiene buen futuro. |
+   | **Amenazas** | Líderes del mercado con mayor cantidad de usuarios fieles. | Imágenes engañosas que pueden generar críticas por altas expectativas. | Nombre genérico que puede ser pasado por alto en búsquedas. | No es exclusiva para domicilios, abarca también constructoras. |
+   
       1. ### <a name="_heading=h.my5j2aczngvl"></a>**Estrategias y tácticas frente a competidores**
    1. ## <a name="_heading=h.kvwvqspqui7h"></a>**Entrevistas**
       1. ### <a name="_heading=h.7ese9n6lynt"></a>**Diseño de entrevistas**
