@@ -335,6 +335,13 @@ Durante este sprint se completaron exitosamente los siguientes entregables:
 
 
 
+
+
+
+
+
+
+
  
 5.2.1.5. Software Deployment Evidence for Sprint Review
 El despliegue del Sprint 1 se realizó de la siguiente manera:
@@ -353,6 +360,27 @@ Durante el Sprint 1 el equipo Dev-il-team mantuvo la siguiente dinámica de cola
 •       2 sesiones de Code Review mediante Pull Requests en GitHub con comentarios y aprobaciones cruzadas.
 •       Todos los integrantes realizaron commits al repositorio, evidenciando participación activa en el sprint.
 •       Decisiones técnicas documentadas en el canal #decisions del servidor Discord del equipo.
+ 
+Integrante
+Commits (Sprint 1)
+Area de contribucion
+Molina Falcon, Piero Leonardo
+12
+Landing Page – Hero, Nav, Footer
+Integrante 2
+9
+Landing Page – Servicios, Planes
+Integrante 3
+8
+Landing Page – Beneficios, Contacto
+Integrante 4
+10
+Web App – DeviceCard, Layout base
+Integrante 5
+7
+Web App – EnergyChart, mock data
+
+
 
    1. ## <a name="_heading=h.rl921vfr5x5t"></a>**Software Configuration Management**
       1. ### <a name="_heading=h.wciwa96dqhjz"></a>**Software Development Environment Configuration**
