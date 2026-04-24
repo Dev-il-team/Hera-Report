@@ -226,17 +226,17 @@ Descripción: Estudiante de Ingeniería de Software con formación en desarrollo
 Aporte al equipo: Ha participado en la definición del proyecto, la elaboración del Capítulo I del informe y la estructuración del Lean UX Process. Además, ha contribuido en la organización del equipo y en la distribución de tareas como team leader, asegurando el avance del proyecto de manera coordinada.
 
 
-
 Integrante 2:
 Nombre: Sebastián Gutarra Velapatiño
 
 
-Código de estudiante:
+Código de estudiante: U20241A314
 
-Carrera:Ingeniería de Software
+Carrera: Ingeniería de software
 
-Descripción:Enfocado en diseño de experiencia de usuario (UX/UI), responsable de la interacción y usabilidad.(Agregar conocimientos y habilidades que pueden aportar al grupo)
-Aporte al equipo:
+Descripción: Me llamo Sebastián, soy un estudiante de 6to ciclo de la carrera de ingeniería de software en la UPC, me caracterizo por la perseverancia, la responsabilidad, la empatía y trabajo en equipo. Me comprometo a terminar satisfactoriamente el presente trabajo junto a todo mi equipo para poder obtener el conocimiento necesario en desarrollar páginas web. 
+
+Aporte al equipo: Participé en el capítulo 2, elaborando el cuadro de competidores, las user personas, el user task matrix, entre otros y en el capítulo 4 diseñando los wireframes y mockups en Figma.
 
 Integrante 3:
 Nombre: Luis German Tello Quispe
@@ -249,10 +249,22 @@ Descripción:Orientado al análisis funcional, encargado de la definición de re
 
 Aporte al equipo:  Participe en la búsqueda y elaboración de user stories para nuestro proyecto, asi mismo para el desarrollo del impact mapping y product backlog. Además, realice los diagramas en modelo c4 para el proyecto.
 
+Integrante 4: Louis Piero Alfaro Coveñas
+
+Código de estudiante:u20191b299
+
+Carrera: Ingeniería de Software
+
+Descripción:Estudiante de Ingeniería de Software con interés en el desarrollo backend y arquitectura de sistemas. Cuenta con experiencia en programación en Java (versiones 8 y 17), uso de Spring Boot, desarrollo de APIs RESTful y manejo de bases de datos con JPA/Hibernate. Posee conocimientos en estructuras de datos, principios SOLID y patrones de diseño como MVC y Repository. Se encuentra en constante aprendizaje dentro del entorno tecnológico, con enfoque en mejorar sus habilidades como desarrollador.
+
+Aporte al equipo:
+Ha contribuido en el desarrollo backend del proyecto, participando en la implementación de servicios, estructuración de lógica de negocio y organización del código siguiendo buenas prácticas. Además, ha apoyado en la planificación técnica y en la distribución de tareas, asegurando el avance continuo del proyecto de manera ordenada y eficiente.
+
+
    1. ## <a name="_heading=h.1m24yvgbflqv"></a>**Solution Profile**
       1. ### <a name="_heading=h.6jokok7g5pjs"></a>**Antecedentes y problemática**
          
-         En los últimos años, el crecimiento del Internet de las Cosas (IoT) ha impulsado la adopción de dispositivos inteligentes en los hogares, tales como luces automatizadas, cámaras de seguridad, sensores de movimiento, sistemas de climatización y electrodomésticos conectados. Sin embargo, este avance tecnológico ha traído consigo una problemática importante: la fragmentación en la gestión de dispositivos.
+   En los últimos años, el crecimiento del Internet de las Cosas (IoT) ha impulsado la adopción de dispositivos inteligentes en los hogares, tales como luces automatizadas, cámaras de seguridad, sensores de movimiento, sistemas de climatización y electrodomésticos conectados. Sin embargo, este avance tecnológico ha traído consigo una problemática importante: la fragmentación en la gestión de dispositivos.
 Muchos usuarios deben utilizar múltiples aplicaciones para controlar distintos dispositivos, lo que genera una experiencia poco eficiente, confusa y limitada. Además, existe una falta de herramientas accesibles que permitan integrar, automatizar y monitorear todos los dispositivos desde una sola plataforma.
 Para comprender mejor esta problemática, se aplica la metodología 5W2H, la cual permite analizar el problema de forma estructurada:
 
@@ -311,7 +323,7 @@ Tiempo y recursos del equipo de desarrollo
       1. ### <a name="_heading=h.aq79i3msu58b"></a>**Lean UX Process**
          1. #### ***Lean UX Problem Statements***
          
-         Dentro del enfoque Lean UX, los Problem Statements permiten definir de manera clara y centrada en el usuario los principales problemas que la solución busca resolver. Estos enunciados ayudan a enfocar el diseño del producto en necesidades reales, evitando suposiciones y guiando el desarrollo hacia una experiencia de usuario efectiva.
+   Dentro del enfoque Lean UX, los Problem Statements permiten definir de manera clara y centrada en el usuario los principales problemas que la solución busca resolver. Estos enunciados ayudan a enfocar el diseño del producto en necesidades reales, evitando suposiciones y guiando el desarrollo hacia una experiencia de usuario efectiva.
 Para contextualizar los problemas identificados, se definen los siguientes elementos:
 
 Domain: Gestión de hogares inteligentes (IoT).
@@ -340,9 +352,157 @@ Los técnicos y empresas de instalación domótica requieren una plataforma que 
 Estos Problem Statements reflejan las principales dificultades que enfrentan los usuarios en la gestión de hogares inteligentes. A partir de ellos, se orienta el diseño de la solución propuesta, enfocándose en la centralización, simplicidad de uso, automatización y eficiencia, elementos clave para mejorar la experiencia del usuario dentro del ecosistema IoT.
 
          1. #### ***Lean UX Assumptions***
+   En el enfoque Lean UX, las assumptions (suposiciones) representan hipótesis iniciales sobre los usuarios, sus necesidades, comportamientos y el valor que ofrece la solución. Estas suposiciones deben ser posteriormente validadas mediante pruebas con usuarios o prototipos.
+   
+A continuación, se presentan las principales suposiciones identificadas para el desarrollo de la solución propuesta:
+
+1. Suposiciones sobre los usuarios
+Los usuarios desean simplificar la gestión de sus dispositivos inteligentes mediante una única plataforma centralizada.
+Los usuarios valoran una interfaz intuitiva y fácil de usar, sin necesidad de conocimientos técnicos avanzados.
+Los usuarios utilizan con frecuencia dispositivos móviles, por lo que esperan que la solución sea completamente responsive.
+Los usuarios están interesados en mejorar la comodidad, seguridad y control de su hogar.
+
+2. Suposiciones sobre el problema
+El uso de múltiples aplicaciones para gestionar dispositivos genera confusión y baja eficiencia.
+La falta de integración entre dispositivos de distintas marcas es una de las principales barreras en la adopción de smart homes.
+Los usuarios no cuentan con herramientas claras para monitorear el consumo energético.
+La automatización del hogar es percibida como compleja o difícil de configurar.
+
+3. Suposiciones sobre la solución
+Una aplicación web centralizada mejorará significativamente la experiencia del usuario.
+Un dashboard visual permitirá una mejor comprensión del estado del hogar.
+La incorporación de automatizaciones facilitará la vida diaria de los usuarios.
+La visualización de datos de consumo energético incentivará hábitos más eficientes.
+
+4. Suposiciones sobre el valor del producto
+Los usuarios estarán dispuestos a utilizar la plataforma si esta les ahorra tiempo y esfuerzo.
+Existe interés en funcionalidades avanzadas mediante un modelo de suscripción premium.
+La centralización de dispositivos será percibida como un valor diferencial frente a otras soluciones.
+
+5. Suposiciones sobre el negocio
+El mercado de hogares inteligentes continuará en crecimiento, aumentando la demanda de soluciones de gestión.
+Se pueden establecer alianzas con técnicos o empresas domóticas para ampliar el alcance del producto.
+
+El modelo de suscripción es viable y sostenible a largo plazo.
+Estas suposiciones guían el desarrollo inicial del producto y sirven como base para la toma de decisiones en el diseño de la solución. Sin embargo, deberán ser validadas mediante pruebas con usuarios reales, prototipos y retroalimentación continua, siguiendo los principios del enfoque Lean UX.
+
          1. #### ***Lean UX Hypothesis Statements***
+Hipótesis 1: Dashboard centralizado
+Creemos que:
+ Construir un dashboard centralizado que integre dispositivos de diferentes marcas en una sola plataforma
+Para:
+ Propietarios de hogares inteligentes que utilizan múltiples aplicaciones para gestionar sus dispositivos
+Lograremos:
+ Simplificar la gestión del hogar y reducir la fricción operativa
+Sabremos que hemos tenido éxito cuando veamos:
+Que el 80% de las acciones se realizan sin salir de la aplicación
+Una reducción del 30% en el tiempo de ejecución de tareas comunes (encender luces, ajustar temperatura, etc.)
+
+Hipótesis 2: Visualización del estado del hogar
+Creemos que:
+ Diseñar un panel visual que muestre el estado general del hogar en tiempo real
+Para:
+ Usuarios que necesitan supervisar múltiples dispositivos sin una vista unificada
+Lograremos:
+ Mejorar la comprensión del estado del hogar y la toma de decisiones rápida
+Sabremos que hemos tenido éxito cuando veamos:
+Que el 85% de los usuarios consulta el dashboard en cada sesión
+Que el tiempo promedio para entender el estado del hogar es menor a 10 segundos
+
+Hipótesis 3: Automatización de rutinas
+Creemos que:
+ Implementar un sistema sencillo de creación de rutinas automatizadas
+Para:
+ Usuarios que desean automatizar tareas pero encuentran complejas las soluciones actuales
+Lograremos:
+ Facilitar la automatización del hogar y mejorar la comodidad del usuario
+Sabremos que hemos tenido éxito cuando veamos:
+Que al menos el 60% de los usuarios crea una rutina durante la primera semana
+Que el tiempo promedio de configuración es menor a 2 minutos
+
+Hipótesis 4: Monitoreo de consumo energético
+Creemos que:
+ Incorporar un módulo de visualización y análisis del consumo energético
+Para:
+ Usuarios interesados en optimizar el uso de energía en su hogar
+Lograremos:
+ Fomentar un uso más eficiente de los recursos energéticos
+Sabremos que hemos tenido éxito cuando veamos:
+Que el 70% de los usuarios consulte el módulo semanalmente 
+Que el 60% identifique oportunidades de ahorro 
+
+Hipótesis 5: Experiencia de usuario intuitiva
+Creemos que:
+ Diseñar una interfaz simple, intuitiva y responsive
+Para:
+ Usuarios con conocimientos técnicos básicos
+Lograremos:
+ Reducir la curva de aprendizaje y mejorar la usabilidad del sistema
+Sabremos que hemos tenido éxito cuando veamos:
+Una puntuación mínima de 4/5 en pruebas de usabilidad
+Que el 90% de los usuarios completa tareas básicas sin asistencia
+
+Hipótesis 6: Funcionalidades premium
+Creemos que:
+ Ofrecer funcionalidades avanzadas mediante un plan premium (automatizaciones avanzadas, reportes, alertas)
+Para:
+ Usuarios avanzados y empresas de domótica
+Lograremos:
+ Incrementar el valor percibido del producto y generar ingresos sostenibles
+Sabremos que hemos tenido éxito cuando veamos:
+Que el 20% de los usuarios muestra interés en el plan premium
+Que al menos el 10% estaría dispuesto a pagar por estas funcionalidades 
+
+Las hipótesis formuladas permiten validar de manera estructurada si las decisiones de diseño propuestas generan valor real en los usuarios. A través de métricas claras, se podrá evaluar el impacto del sistema y ajustar el producto en función de resultados medibles, siguiendo los principios del enfoque Lean UX.
+
          1. #### ***Lean UX Canvas***
+   El Lean UX Canvas resume la visión del producto, los problemas identificados, los segmentos de usuarios, las suposiciones y las hipótesis definidas previamente. Este modelo permite alinear el desarrollo del software con las necesidades reales del usuario y los objetivos del negocio.
+   
+A continuación, se presenta el Lean UX Canvas del proyecto:
+
+imagen canva
+
+A continuación, se presenta el Lean UX Canvas del proyecto (ver enlace):
+https://canva.link/8pfv4avhjqinc36
+
    1. ## <a name="_heading=h.u9rq93k9sjtu"></a>**Segmentos objetivo**
+      
+La solución propuesta está dirigida a tres segmentos principales de usuarios, definidos en función de sus necesidades, nivel de adopción tecnológica y relación con los sistemas de hogares inteligentes.
+1.3.1 Propietarios de viviendas que desean convertir su hogar en smart home
+Este segmento está conformado por personas que poseen viviendas tradicionales y buscan modernizar su hogares mediante la incorporación de dispositivos inteligentes.
+
+Características demográficas:
+Edad: 25 – 45 años
+Nivel socioeconómico: medio – medio alto
+Ubicación: zonas urbanas
+Nivel tecnológico: básico a intermedio
+Estos usuarios suelen estar motivados por mejorar la comodidad, seguridad y eficiencia de su hogar, pero enfrentan barreras como la falta de conocimiento técnico o la complejidad de las soluciones disponibles.
+1.3.2 Propietarios de hogares inteligentes
+Este segmento incluye a usuarios que ya cuentan con dispositivos IoT instalados en su vivienda, como luces inteligentes, cámaras de seguridad, sensores o sistemas de climatización.
+Características demográficas:
+Edad: 30 – 50 años
+Nivel socioeconómico: medio alto – alto
+Nivel tecnológico: intermedio – avanzado
+Según tendencias del mercado, el uso de dispositivos IoT en el hogar ha crecido significativamente en los últimos años, lo que ha incrementado la necesidad de soluciones que integren estos sistemas.
+Según estudios de mercado, el número de dispositivos IoT en el hogar ha crecido de forma sostenida en los últimos años. De acuerdo con Statista, se estima que el número de dispositivos conectados a nivel mundial superará los 25 mil millones, impulsando la adopción de tecnologías de hogar inteligente.
+Asimismo, reportes de Gartner indican que los hogares inteligentes representan uno de los segmentos de mayor crecimiento dentro del ecosistema IoT, lo que evidencia la necesidad de soluciones que permitan integrar y gestionar estos dispositivos de forma eficiente.
+Estos usuarios enfrentan el problema de tener que utilizar múltiples aplicaciones, lo que genera una experiencia fragmentada e ineficiente.
+
+Figura 1. Crecimiento de dispositivos IoT a nivel mundial.
+Fuente: Elaboración propia basada en datos de Statista (2024)
+Como se muestra en la figura 1, el número de dispositivos IoT ha crecido de manera sostenida en los últimos años, lo que evidencia la creciente adopción de tecnologías de hogar inteligente.
+
+
+1.3.3 Empresas y técnicos de instalación domótica
+Este segmento está compuesto por profesionales y empresas dedicadas a la instalación, configuración y mantenimiento de sistemas de hogares inteligentes.
+Características demográficas:
+Edad: 28 – 50 años
+Perfil: técnico / empresarial
+Nivel tecnológico: avanzado
+Estos actores requieren herramientas que les permitan gestionar múltiples clientes, monitorear dispositivos de forma remota y brindar soporte técnico eficiente.
+
+La identificación de estos tres segmentos permite enfocar el desarrollo del producto en usuarios con necesidades claras y diferenciadas. Esto facilita la creación de funcionalidades específicas que generen valor, asegurando una mejor adopción del sistema y una propuesta de negocio más sólida.
+
 
       
 1. # <a name="_heading=h.mpt88vqezrd5"></a>**Capítulo II: Requirements Elicitation & Analysis**
