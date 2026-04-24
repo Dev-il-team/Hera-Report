@@ -66,32 +66,9 @@ Alfaro Coveñas, Louis Piero (u20191b299)
 
 [2.1.2](#_heading=h.my5j2aczngvl)[	](#_heading=h.my5j2aczngvl)Estrategias y tácticas frente a competidores	4
 
-**Estrategia 1: Enfoque en Experiencia de Usuario**
-Posicionamiento como la solución más sencilla y centralizada. Se medirá la satisfacción mediante métricas de facilidad de aprendizaje, experiencia de uso y probabilidad de recomendación.
-
-**Estrategia 2: Alianzas Estratégicas**
-Alianzas con proveedores tecnológicos para que ellos vendan el hardware y nosotros gestionemos el software, asegurando la calidad de la instalación.
-
-**Estrategia 3: Expansión de mercado**
-Priorización de distritos con alto poder adquisitivo como Miraflores y San Isidro, y presencia física en ferias inmobiliarias para captar clientes interesados en invertir en sus viviendas.
-
 [2.2](#_heading=h.kvwvqspqui7h)[	](#_heading=h.kvwvqspqui7h)Entrevistas	5
 
 [2.2.1](#_heading=h.7ese9n6lynt)[	](#_heading=h.7ese9n6lynt)Diseño de entrevistas	5
-
-El objetivo es validar suposiciones de Lean UX sobre necesidades y comportamientos para orientar el diseño de SmartHome. Se definen dos perfiles:
-1.  **Segmento 1:** Propietarios de hogar inteligente (25-55 años) con dispositivos IoT.
-2.  **Segmento 2:** Técnicos o empresas de domótica.
-
-**Guía Segmento 1: Propietario de Hogar Inteligente**
-* **Contexto:** Dispositivos actuales, métodos de control (celular, tablet), aplicaciones usadas y qué les incomoda.
-* **Necesidades:** Fricciones al no saber qué pasa con un dispositivo, facilidad de automatización, monitoreo energético y qué cambiarían de su sistema actual.
-* **Solución Centralizada:** Interés en plataforma única multimarca, funciones imprescindibles y disposición de pago premium.
-
-**Guía Segmento 2: Técnico / Empresa de Domótica**
-* **Flujo:** Gestión de soporte, herramientas de monitoreo remoto y procesos ineficientes.
-* **Puntos de dolor:** Incompatibilidad entre marcas y requerimiento de intervención presencial para rutinas.
-* **Interés:** Utilidad de monitoreo multi-cliente, recomendaciones a terceros y preocupaciones de seguridad de datos.
 
 [2.2.2](#_heading=h.okh2o93lng7c)[	](#_heading=h.okh2o93lng7c)Registro de entrevistas	5
 
@@ -101,60 +78,15 @@ El objetivo es validar suposiciones de Lean UX sobre necesidades y comportamient
 
 [2.3.1](#_heading=h.t3o44d82qj3a)[	](#_heading=h.t3o44d82qj3a)User Personas	5
 
-**Vicente Gutiérrez (33 años) - Segmento 1**
-Ingeniero civil que ha trabajado en el extranjero. Desea convertir su departamento en smart home para ganar seguridad y comodidad, buscando información clara y en tiempo real.
-
-![User Persona Vicente](https://cdn.discordapp.com/attachments/708833636480188436/1497351151136542830/image.png?ex=69ed346d&is=69ebe2ed&hm=68a6c8858ef55af2150306afbeed7c11555ffcdf40f62a465e0df31077cb1c55&)
-
-**Jenny Cáceres (39 años) - Segmento 2**
-Arquitecta con experiencia internacional. Aunque ya tiene una smart home, está insatisfecha porque su software actual falla o no conecta con dispositivos nuevos; busca una opción más intuitiva e integrada.
-
-![User Persona Jenny](https://cdn.discordapp.com/attachments/708833636480188436/1497351193612124220/image.png?ex=69ed3477&is=69ebe2f7&hm=08d1aeff26f21d54d273fef734cb86c5902bb38023646a0c1e22498abdc37019&)
-
 [2.3.2](#_heading=h.lijtivpgh7c5)[	](#_heading=h.lijtivpgh7c5)User Task Matrix	5
-
-| Tarea | Vicente (Imp / Freq) | Jenny (Imp / Freq) |
-| :--- | :--- | :--- |
-| Seguridad de la casa | Alta / Frecuente | Alta / Frecuente |
-| Control desde celular | Alta / Ocasional | Alta / Frecuente |
-| Chequear ahorro energía | Alta / Ocasional | Media / Ocasional |
-| Prender cafetera automáticamente | Baja / Ocasional | Alta / Frecuente |
-| Regular temperatura | Media / Ocasional | Media / Ocasional |
-| Observar mascota en el trabajo | Alta / Frecuente | Baja / Rara |
-
-Observamos que la tarea más importante para ellos es ver la seguridad de su casa una vez hayan salido hacia su trabajo, esta es la principal razón por la que están entusiasmados por automatizar sus hogares. Como Jenny posee su smart home instalada, ella está acostumbrada a tener la aplicación de manejo en su celular, por lo que su frecuencia de uso es mayor a la de Vicente. Vicente le pone más importancia a ver una disminución en sus gastos mensuales de energía. Para cada user persona vemos una actividad que le dan más importancia que el otro, para Jenny es una rutina beber café al inicio del día por lo que prefiere su cafetera automatizada; mientras que para Vicente, observar a su mascota es más importante, por ello ingresará a la aplicación para conectarse a las cámaras de su casa mientras esté en el trabajo.
 
 [2.3.3](#_heading=h.ll58dvw5y4kr)[	](#_heading=h.ll58dvw5y4kr)User Journey Mapping	5
 
-**Segmento 1:** Enfocado en la rutina de salida, verificación de seguridad y monitoreo de mascotas.
-
-![Journey Segmento 1](https://cdn.discordapp.com/attachments/708833636480188436/1497351417571184771/image.png?ex=69ed34ad&is=69ebe32d&hm=cd0be8e8254f84197a773b20f6c541aad411556d9aa13ddbbb0e8bc3811eefbb&)
-
-**Segmento 2:** Enfocado en la rutina matutina automatizada y el control de temperatura antes de llegar a casa.
-
-![Journey Segmento 2](https://cdn.discordapp.com/attachments/708833636480188436/1497351459896033470/image.png?ex=69ed34b7&is=69ebe337&hm=27aafc835fdc8c06aa922ead0af5cefd1bb3a2161122da5c51f6d44061e6b82f&)
-
 [2.3.4](#_heading=h.g6ujnqjos6ot)[	](#_heading=h.g6ujnqjos6ot)Empathy Mapping	5
-
-**Segmento 1:** Destaca el miedo a la inseguridad y el interés por ver métricas de ahorro energético reales.
-![Empathy Segmento 1](https://cdn.discordapp.com/attachments/708833636480188436/1497351651768402042/image.png?ex=69ed34e5&is=69ebe365&hm=3784795c3ff6bfe643d43c492b90ec8a3f652d0eb766fd99a57205001e6b87e0&)
-
-**Segmento 2:** Destaca la necesidad de que el hogar "funcione solo" y la frustración cuando falla la conectividad.
-![Empathy Segmento 2](https://cdn.discordapp.com/attachments/708833636480188436/1497351692885295326/image.png?ex=69ed34ef&is=69ebe36f&hm=4006b5b4cadae570a04292b46607966e96c48ec7c137a0b337377152d410bf23&)
 
 [2.4](#_heading=h.ne223vmjcl1k)[	](#_heading=h.ne223vmjcl1k)Big Picture Event Storming	5
 
-Representación de los eventos del sistema: Inicio de sesión -> Ingreso satisfactorio -> Consulta de info de dispositivos -> Observación de seguridad -> Regulación de temperatura -> Verificación de consumo.
-![Event Storming](https://cdn.discordapp.com/attachments/708833636480188436/1497353086950179027/image.png?ex=69ed363b&is=69ebe4bb&hm=136ae8b17bbbd25911c9e4cd78916bb255475b3bc8285431b393447be2c2e184&)
-
 [2.5](#_heading=h.8x2fe8afchzg)[	](#_heading=h.8x2fe8afchzg)Ubiquitous Language	5
-
-* **Modo Seguro:** Estado activo de todos los sensores y alarmas al salir del hogar.
-* **Escena:** Configuración de múltiples dispositivos activa con un solo comando.
-* **Trigger:** Condición (hora, ubicación) que inicia una rutina automáticamente.
-* **Reporte de Consumo:** Resumen mensual de gasto energético por dispositivo.
-* **Dashboard:** Vista principal de control en tiempo real.
-* **Usuario Avanzado:** Perfil con smart home instalada y uso intensivo de la app.Monitoreada.
 
 [3.](#_heading=h.z0puptyhajil)[	](#_heading=h.z0puptyhajil)Capítulo III: Requirements Specification	5
 
@@ -292,7 +224,7 @@ Representación de los eventos del sistema: Inicio de sesión -> Ingreso satisfa
 
       1. ### <a name="_heading=h.ujj48hrqdi0c"></a>**Análisis competitivo**
 
-         **Competitive Analysis Landscape**
+   **Competitive Analysis Landscape**
    Al completar este cuadro identificamos nuestras diferencias frente a la competencia y descubrimos en qué aspectos podemos mejorar para tomar decisiones inteligentes en beneficio de la empresa.
 
    | Criterio | Nuestro startup | Orvibo Perú | Smart House Perú | E-Activa |
@@ -308,19 +240,141 @@ Representación de los eventos del sistema: Inicio de sesión -> Ingreso satisfa
    | **Debilidades** | Pocos usuarios iniciales para obtener métricas de mejora. | Landing page con mal diseño en tamaño y ubicación de videos. | Información de productos poco visible en su landing page. | Aparece debajo de la competencia en búsquedas; falta inversión en publicidad. |
    | **Oportunidades** | Recomendación boca a boca de clientes satisfechos. | Tendencia creciente de los ciudadanos a modernizarse. | Opción de capacitación para trabajar con la empresa. | El mercado de la modernización tiene buen futuro. |
    | **Amenazas** | Líderes del mercado con mayor cantidad de usuarios fieles. | Imágenes engañosas que pueden generar críticas por altas expectativas. | Nombre genérico que puede ser pasado por alto en búsquedas. | No es exclusiva para domicilios, abarca también constructoras. |
-   
+
       1. ### <a name="_heading=h.my5j2aczngvl"></a>**Estrategias y tácticas frente a competidores**
+
+   **Estrategia 1: Enfoque en Experiencia de Usuario**
+   Posicionamiento como la solución más sencilla y centralizada. Se medirá la satisfacción mediante métricas de facilidad de aprendizaje, experiencia de uso y probabilidad de recomendación.
+
+   **Estrategia 2: Alianzas Estratégicas**
+   Alianzas con proveedores tecnológicos para que ellos vendan el hardware y nosotros gestionemos el software, asegurando la calidad de la instalación.
+
+   **Estrategia 3: Expansión de mercado**
+   Priorización de distritos con alto poder adquisitivo como Miraflores y San Isidro, y presencia física en ferias inmobiliarias para captar clientes interesados en invertir en sus viviendas.
+
    1. ## <a name="_heading=h.kvwvqspqui7h"></a>**Entrevistas**
       1. ### <a name="_heading=h.7ese9n6lynt"></a>**Diseño de entrevistas**
+
+   Validar las suposiciones planteadas en el Lean UX respecto a las necesidades, comportamientos y expectativas de los usuarios en torno a la gestión de hogares inteligentes, con el fin de orientar el diseño de la plataforma SmartHome.
+
+   Se identifican dos perfiles principales a entrevistar:
+   * **Segmento 1 – Usuario Propietario de Hogar Inteligente:** Personas entre 25 y 55 años con uno o más dispositivos IoT en casa, que utilizan aplicaciones para controlarlos.
+   * **Segmento 2 – Técnico / Empresa de Domótica:** Profesionales que instalan, configuran o dan soporte a sistemas de automatización residencial.
+
+   **Guía de Entrevista — Segmento 1: Propietario de Hogar Inteligente**
+
+   **Datos del entrevistado:**
+   * Nombre, edad, ocupación.
+   * Cantidad y tipo de dispositivos inteligentes en el hogar.
+   * Tiempo usando este tipo de tecnología.
+
+   **Bloque 1: Contexto y hábitos actuales**
+   * ¿Qué dispositivos inteligentes tiene instalados en su hogar actualmente?
+   * ¿Cómo los controla habitualmente? ¿Desde qué dispositivos (celular, tablet, computadora)?
+   * ¿Utiliza alguna aplicación específica para gestionarlos? ¿Cuántas aplicaciones usa en total?
+   * ¿Qué es lo que más le gusta de la forma en que los gestiona actualmente?
+   * ¿Qué es lo que más le incomoda o considera una pérdida de tiempo?
+
+   **Bloque 2: Necesidades y frustraciones**
+   * ¿Ha tenido alguna vez la sensación de no saber qué estaba pasando con un dispositivo de su hogar? ¿Puede contarme ese momento?
+   * ¿Qué tan fácil o difícil le resulta programar acciones automáticas (ej. que las luces se apaguen a cierta hora)?
+   * ¿Monitorea el consumo energético de sus dispositivos? ¿Cómo lo hace actualmente?
+   * ¿Alguna vez dejó de usar una función porque era demasiado complicado configurarla?
+   * Si pudiera cambiar una sola cosa de la forma en que gestiona su hogar inteligente hoy, ¿qué sería?
+
+   **Bloque 3: Percepción sobre una solución centralizada**
+   * Si existiera una única plataforma desde la cual pudiera controlar todos sus dispositivos, sin importar la marca, ¿la usaría? ¿Por qué?
+   * ¿Qué funciones serían imprescindibles para usted en esa plataforma?
+   * ¿Qué tan importante es para usted poder ver el estado de todo su hogar de un solo vistazo?
+   * ¿Estaría dispuesto a pagar por una versión premium que incluya automatizaciones avanzadas, alertas y reportes detallados? ¿Qué monto mensual le parecería razonable?
+   * ¿Qué tan importante es para usted que la aplicación funcione correctamente desde el celular?
+
+   **Bloque 4: Cierre**
+   * ¿Hay algo más relacionado con la gestión de su hogar inteligente que considere importante y que no hayamos mencionado?
+
+   **Guía de Entrevista — Segmento 2: Técnico / Empresa de Domótica**
+
+   **Datos del entrevistado:**
+   * Rol o cargo, años de experiencia en el sector.
+   * Cantidad aproximada de clientes o instalaciones gestionadas.
+
+   **Bloque 1: Flujo de trabajo actual**
+   * ¿Cómo gestiona actualmente el soporte y monitoreo de los hogares de sus clientes?
+   * ¿Utiliza alguna plataforma o herramienta de gestión remota? ¿Cuál?
+   * ¿Cuánto tiempo dedica semanalmente a resolver incidencias o atender solicitudes de clientes?
+   * ¿Qué aspectos del proceso de instalación o mantenimiento considera más complejos o ineficientes?
+
+   **Bloque 2: Puntos de dolor**
+   * ¿Ha tenido problemas por la incompatibilidad entre dispositivos de distintas marcas? ¿Cómo lo resuelve?
+   * ¿Qué es lo que sus clientes le solicitan con mayor frecuencia y que actualmente no puede atender fácilmente?
+   * ¿Cómo maneja las configuraciones de rutinas y automatizaciones para sus clientes? ¿Requiere intervención presencial?
+
+   **Bloque 3: Interés en una plataforma unificada**
+   * ¿Le resultaría útil contar con una plataforma desde la cual pueda monitorear y gestionar los hogares de todos sus clientes en un solo lugar?
+   * ¿Qué funciones serían indispensables para usted como técnico dentro de esa plataforma?
+   * ¿Estaría dispuesto a recomendar o integrar esta solución en sus servicios? ¿Bajo qué condiciones?
+   * ¿Qué preocupaciones tendría en cuanto a seguridad o privacidad de datos de sus clientes?
+
       1. ### <a name="_heading=h.okh2o93lng7c"></a>**Registro de entrevistas**
       1. ### <a name="_heading=h.o04xobkxbyxf"></a>**Análisis de entrevistas**
    1. ## <a name="_heading=h.5a8vg9lw2y2c"></a>**Needfinding**
       1. ### <a name="_heading=h.t3o44d82qj3a"></a>**User Personas**
+
+   **Vicente Gutiérrez (33 años) - Segmento 1**
+   Ingeniero civil que ha trabajado en el extranjero. Desea convertir su departamento en smart home para ganar seguridad y comodidad, buscando información clara y en tiempo real.
+
+   ![User Persona Vicente](https://cdn.discordapp.com/attachments/708833636480188436/1497351151136542830/image.png?ex=69ed346d&is=69ebe2ed&hm=68a6c8858ef55af2150306afbeed7c11555ffcdf40f62a465e0df31077cb1c55&)
+
+   **Jenny Cáceres (39 años) - Segmento 2**
+   Arquitecta con experiencia internacional. Aunque ya tiene una smart home, está insatisfecha porque su software actual falla o no conecta con dispositivos nuevos; busca una opción más intuitiva e integrada.
+
+   ![User Persona Jenny](https://cdn.discordapp.com/attachments/708833636480188436/1497351193612124220/image.png?ex=69ed3477&is=69ebe2f7&hm=08d1aeff26f21d54d273fef734cb86c5902bb38023646a0c1e22498abdc37019&)
+
       1. ### <a name="_heading=h.lijtivpgh7c5"></a>**User Task Matrix**
+
+   | Tarea | Vicente (Imp / Freq) | Jenny (Imp / Freq) |
+   | :--- | :--- | :--- |
+   | Seguridad de la casa | Alta / Frecuente | Alta / Frecuente |
+   | Control desde celular | Alta / Ocasional | Alta / Frecuente |
+   | Chequear ahorro energía | Alta / Ocasional | Media / Ocasional |
+   | Prender cafetera automáticamente | Baja / Ocasional | Alta / Frecuente |
+   | Regular temperatura | Media / Ocasional | Media / Ocasional |
+   | Observar mascota en el trabajo | Alta / Frecuente | Baja / Rara |
+
+   Observamos que la tarea más importante para ellos es ver la seguridad de su casa una vez hayan salido hacia su trabajo, esta es la principal razón por la que están entusiasmados por automatizar sus hogares. Como Jenny posee su smart home instalada, ella está acostumbrada a tener la aplicación de manejo en su celular, por lo que su frecuencia de uso es mayor a la de Vicente. Vicente le pone más importancia a ver una disminución en sus gastos mensuales de energía. Para cada user persona vemos una actividad que le dan más importancia que el otro, para Jenny es una rutina beber café al inicio del día por lo que prefiere su cafetera automatizada; mientras que para Vicente, observar a su mascota es más importante, por ello ingresará a la aplicación para conectarse a las cámaras de su casa mientras esté en el trabajo.
+
       1. ### <a name="_heading=h.ll58dvw5y4kr"></a>**User Journey Mapping**
+
+   **Segmento 1:** Enfocado en la rutina de salida, verificación de seguridad y monitoreo de mascotas.
+
+   ![Journey Segmento 1](https://cdn.discordapp.com/attachments/708833636480188436/1497351417571184771/image.png?ex=69ed34ad&is=69ebe32d&hm=cd0be8e8254f84197a773b20f6c541aad411556d9aa13ddbbb0e8bc3811eefbb&)
+
+   **Segmento 2:** Enfocado en la rutina matutina automatizada y el control de temperatura antes de llegar a casa.
+
+   ![Journey Segmento 2](https://cdn.discordapp.com/attachments/708833636480188436/1497351459896033470/image.png?ex=69ed34b7&is=69ebe337&hm=27aafc835fdc8c06aa922ead0af5cefd1bb3a2161122da5c51f6d44061e6b82f&)
+
       1. ### <a name="_heading=h.g6ujnqjos6ot"></a>**Empathy Mapping**
+
+   **Segmento 1:** Destaca el miedo a la inseguridad y el interés por ver métricas de ahorro energético reales.
+   ![Empathy Segmento 1](https://cdn.discordapp.com/attachments/708833636480188436/1497351651768402042/image.png?ex=69ed34e5&is=69ebe365&hm=3784795c3ff6bfe643d43c492b90ec8a3f652d0eb766fd99a57205001e6b87e0&)
+
+   **Segmento 2:** Destaca la necesidad de que el hogar "funcione solo" y la frustración cuando falla la conectividad.
+   ![Empathy Segmento 2](https://cdn.discordapp.com/attachments/708833636480188436/1497351692885295326/image.png?ex=69ed34ef&is=69ebe36f&hm=4006b5b4cadae570a04292b46607966e96c48ec7c137a0b337377152d410bf23&)
+
    1. ## <a name="_heading=h.ne223vmjcl1k"></a>**Big Picture Event Storming**
+
+   Representación de los eventos del sistema: Inicio de sesión -> Ingreso satisfactorio -> Consulta de info de dispositivos -> Observación de seguridad -> Regulación de temperatura -> Verificación de consumo.
+   ![Event Storming](https://cdn.discordapp.com/attachments/708833636480188436/1497353086950179027/image.png?ex=69ed363b&is=69ebe4bb&hm=136ae8b17bbbd25911c9e4cd78916bb255475b3bc8285431b393447be2c2e184&)
+
    1. ## <a name="_heading=h.8x2fe8afchzg"></a>**Ubiquitous Language**
+
+   * **Modo Seguro:** Estado activo de todos los sensores y alarmas al salir del hogar.
+   * **Escena:** Configuración de múltiples dispositivos activa con un solo comando.
+   * **Trigger:** Condición (hora, ubicación) que inicia una rutina automáticamente.
+   * **Reporte de Consumo:** Resumen mensual de gasto energético por dispositivo.
+   * **Dashboard:** Vista principal de control en tiempo real.
+   * **Usuario Avanzado:** Perfil con smart home instalada y uso intensivo de la app.Monitoreada.
+
 1. # <a name="_heading=h.z0puptyhajil"></a>**Capítulo III: Requirements Specification**
    1. ## <a name="_heading=h.ninegv5ehvr6"></a>**User Stories**
    1. ## <a name="_heading=h.60m5bn8l7hr1"></a>**Impact Mapping**
