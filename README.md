@@ -279,11 +279,11 @@ Alfaro Coveñas, Louis Piero (u20191b299)
 
 
 
-   1. ## <a name="_heading=h.60m5bn8l7hr1"></a>**Impact Mapping**
+   2. ## <a name="_heading=h.60m5bn8l7hr1"></a>**Impact Mapping**
 
+![](https://discord.com/channels/1492318440168489033/1492318440998830240/1497384249404428351)
 
-
-   1. ## <a name="_heading=h.zg59gto95pem"></a>**Product Backlog**
+   3. ## <a name="_heading=h.zg59gto95pem"></a>**Product Backlog**
 
 
 | \# Orden | User Story Id | Título | Descripción | Story Points (1/2/3/5/8) |
