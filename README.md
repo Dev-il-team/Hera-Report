@@ -62,9 +62,52 @@ Alfaro Coveñas, Louis Piero (u20191b299)
 
 [2.1](#_heading=h.ljhxf313n4wx)[	](#_heading=h.ljhxf313n4wx)Competidores	4
 
+**Orvibo Perú:**
+
+![Logo ORVIBO PERÚ](INSERTAR_LINK_AQUI)
+
+ORVIBO es un proveedor de soluciones integrales para el hogar inteligente. Ha desarrollado una amplia gama de productos, con más de 1000 patentes, incluyendo paneles de control inteligentes, iluminación, interruptores, seguridad, cortinas, sistemas de climatización y entretenimiento.
+
+**Smart House Perú:**
+
+![Logo SMART HOUSE PERU](INSERTAR_LINK_AQUI)
+
+Empresa reconocida en soluciones tecnológicas y de confort con altos estándares de calidad. Ofrece servicios con procesos automatizados para satisfacer las necesidades de seguridad y bienestar del cliente mediante tecnología de punta.
+
+**E-Activa:**
+
+![Logo ACTIVA](INSERTAR_LINK_AQUI)
+
+Equipo de profesionales con 15 años de experiencia en la automatización de espacios para proyectos residenciales. Su visión es entregar alternativas tecnológicas de verdadera funcionalidad a sus clientes.
+
 [2.1.1](#_heading=h.ujj48hrqdi0c)[	](#_heading=h.ujj48hrqdi0c)Análisis competitivo	4
 
+**Competitive Analysis Landscape**
+
+Este análisis permite identificar diferencias frente a la competencia y descubrir aspectos de mejora para tomar decisiones inteligentes en beneficio de la empresa.
+
+| Criterio | Nuestro startup | Orvibo Perú | Smart House Perú | E-Activa |
+| :--- | :--- | :--- | :--- | :--- |
+| **Perfil** | Empresa tecnológica de aplicación web responsive para gestión integral de hogares inteligentes. | Proveedor de soluciones integrales para el hogar inteligente. | Empresa reconocida en soluciones tecnológicas y de confort de alta calidad. | Profesionales expertos en servicios de automatización de espacios residenciales. |
+| **Ventaja competitiva** | Plataforma centralizada para controlar, monitorear y optimizar la vivienda de forma sencilla y segura. | Más de 1000 patentes en paneles, iluminación y seguridad. | Productos exclusivos de tecnología de punta para confort y seguridad. | Alternativas tecnológicas de verdadera funcionalidad. |
+| **Mercado objetivo** | Propietarios de casas tradicionales y smart homes. | Propietarios de casas tradicionales y smart homes. | Propietarios de hogares inteligentes. | Propietarios que desean convertir su hogar en smart home. |
+| **Estrategias de marketing** | Publicidad en redes sociales y descuentos para primeros clientes. | Demostración de ahorro energético con datos reales. | Presencia en 4 países; pioneros en Latinoamérica. | Fortalecimiento del vínculo con el cliente a largo plazo. |
+| **Productos & Servicios** | Plataforma digital para interacción con dispositivos IoT. | Seguridad, luces, audio y jardines inteligentes. | Modernización de oficinas, residenciales e inmobiliarias. | Sensores, domótica y conectividad wi-fi. |
+| **Precios & Costos** | Precio base variable según el crecimiento del negocio. | No explícito; ofrecen descuentos en la web. | No explícito en su página web. | No explícito en su página web. |
+| **Canales de distribución** | Web y móvil. | Web y móvil. | Web y móvil. | Principalmente Web. |
+| **Análisis SWOT: Fortalezas** | Sencillez y facilidad de manejo de la plataforma. | Gran cantidad de agencias en Lima. | Cercanía con el cliente y descripción de valores. | Soporte técnico y solución de problemas en 48 horas. |
+| **Análisis SWOT: Debilidades** | Pocos usuarios para obtener métricas de mejora iniciales. | Diseño de landing page deficiente en videos. | Información de productos poco visible en la web. | Baja inversión en publicidad online/SEO. |
+
 [2.1.2](#_heading=h.my5j2aczngvl)[	](#_heading=h.my5j2aczngvl)Estrategias y tácticas frente a competidores	4
+
+**Estrategia 1: Enfoque en Experiencia de Usuario**
+Posicionamiento como la solución más sencilla y centralizada. Se medirá la satisfacción mediante métricas de facilidad de aprendizaje, experiencia de uso y probabilidad de recomendación.
+
+**Estrategia 2: Alianzas Estratégicas**
+Alianzas con proveedores tecnológicos para que ellos vendan el hardware y nosotros gestionemos el software, asegurando la calidad de la instalación.
+
+**Estrategia 3: Expansión de mercado**
+Priorización de distritos con alto poder adquisitivo como Miraflores y San Isidro, y presencia física en ferias inmobiliarias para captar clientes interesados en invertir en sus viviendas.
 
 [2.2](#_heading=h.kvwvqspqui7h)[	](#_heading=h.kvwvqspqui7h)Entrevistas	5
 
