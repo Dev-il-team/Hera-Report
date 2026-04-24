@@ -216,7 +216,9 @@ De esta manera, la startup busca no solo facilitar la gestión del hogar intelig
    
 Integrante 1:
 Nombre: Piero Leonardo Molina Falcón
-
+<p align="center">
+  <img src="assets/piero.png" width="300">
+</p>
 Código de estudiante: U201610857
 
 Carrera: Ingeniería de software 
@@ -229,6 +231,9 @@ Aporte al equipo: Ha participado en la definición del proyecto, la elaboración
 Integrante 2:
 Nombre: Sebastián Gutarra Velapatiño
 
+<p align="center">
+  <img src="assets/Sebastian.png" width="300">
+</p>
 
 Código de estudiante: U20241A314
 
@@ -241,6 +246,10 @@ Aporte al equipo: Participé en el capítulo 2, elaborando el cuadro de competid
 Integrante 3:
 Nombre: Luis German Tello Quispe
 
+<p align="center">
+  <img src="assets/Tello.jpg" width="300">
+</p>
+
 Código de estudiante: U202317767
 
 Carrera: Ingeniería de Software
@@ -250,6 +259,10 @@ Descripción:Orientado al análisis funcional, encargado de la definición de re
 Aporte al equipo:  Participe en la búsqueda y elaboración de user stories para nuestro proyecto, asi mismo para el desarrollo del impact mapping y product backlog. Además, realice los diagramas en modelo c4 para el proyecto.
 
 Integrante 4: Louis Piero Alfaro Coveñas
+
+<p align="center">
+  <img src="assets/Louis.png" width="300">
+</p>
 
 Código de estudiante:u20191b299
 
@@ -460,7 +473,9 @@ Las hipótesis formuladas permiten validar de manera estructurada si las decisio
    
 A continuación, se presenta el Lean UX Canvas del proyecto:
 
-imagen canva
+<p align="center">
+  <img src="assets/CanvaHera.png" width="800">
+</p>
 
 [A continuación, se adjunta el enlace del canva](https://canva.link/8pfv4avhjqinc36)
 
@@ -487,6 +502,10 @@ Según tendencias del mercado, el uso de dispositivos IoT en el hogar ha crecido
 Según estudios de mercado, el número de dispositivos IoT en el hogar ha crecido de forma sostenida en los últimos años. De acuerdo con Statista, se estima que el número de dispositivos conectados a nivel mundial superará los 25 mil millones, impulsando la adopción de tecnologías de hogar inteligente.
 Asimismo, reportes de Gartner indican que los hogares inteligentes representan uno de los segmentos de mayor crecimiento dentro del ecosistema IoT, lo que evidencia la necesidad de soluciones que permitan integrar y gestionar estos dispositivos de forma eficiente.
 Estos usuarios enfrentan el problema de tener que utilizar múltiples aplicaciones, lo que genera una experiencia fragmentada e ineficiente.
+
+<p align="center">
+  <img src="assets/estadisticaHera.png" width="600">
+</p>
 
 Figura 1. Crecimiento de dispositivos IoT a nivel mundial.
 Fuente: Elaboración propia basada en datos de Statista (2024)
