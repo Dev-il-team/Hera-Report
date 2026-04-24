@@ -64,7 +64,7 @@ Alfaro Coveñas, Louis Piero (u20191b299)
 
 **Orvibo Perú:**
 
-![Logo ORVIBO PERÚ](INSERTAR_LINK_AQUI)
+![Logo ORVIBO PERÚ](https://cdn.discordapp.com/attachments/708833636480188436/1497349794832711812/image.png?ex=69ed332a&is=69ebe1aa&hm=4af7abc329e3e4ad3670f1863269cf9ac333670d18419f75f972fd7ec3569c94&)
 
 ORVIBO es un proveedor de soluciones integrales para el hogar inteligente. Ha desarrollado una amplia gama de productos, con más de 1000 patentes, incluyendo paneles de control inteligentes, iluminación, interruptores, seguridad, cortinas, sistemas de climatización y entretenimiento.
 
