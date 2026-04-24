@@ -46,6 +46,7 @@ Alfaro Coveñas, Louis Piero (u20191b299)
 
 [1.1](#_heading=h.cef4nj5tp5jz)[	](#_heading=h.cef4nj5tp5jz)Startup Profile	4
 
+
 [1.1.1](#_heading=h.u8z3eha1kjlr)[	](#_heading=h.u8z3eha1kjlr)Descripción de la Startup	4
 
 [1.1.2](#_heading=h.so7ggpcn42dv)[	](#_heading=h.so7ggpcn42dv)Perfiles de integrantes del equipo	4
@@ -191,16 +192,159 @@ Alfaro Coveñas, Louis Piero (u20191b299)
 # <a name="_heading=h.nbg6pah72qg3"></a>**Student Outcome**
 1. # <a name="_heading=h.iv3t72wpl8ge"></a>**Capítulo I: Introducción**
    1. ## <a name="_heading=h.cef4nj5tp5jz"></a>**Startup Profile**
+   
+   La startup propuesta se enfoca en el desarrollo de soluciones tecnológicas orientadas a la automatización y gestión de hogares inteligentes mediante el uso de tecnologías IoT (Internet of Things). Su principal objetivo es ofrecer una plataforma web centralizada que permita a los usuarios controlar, monitorear y optimizar los dispositivos inteligentes de su vivienda de manera sencilla, segura y eficiente.
+La empresa busca posicionarse en el sector de la domótica, ofreciendo un software innovador que integre múltiples dispositivos en un solo sistema, eliminando la necesidad de utilizar diversas aplicaciones independientes para cada dispositivo.
+
       1. ### <a name="_heading=h.u8z3eha1kjlr"></a>**Descripción de la Startup**
+      
+      La startup, denominada tentativamente Smart Home HERA, es una empresa tecnológica dedicada al desarrollo de una aplicación web que permite la gestión integral de hogares inteligentes.
+La solución propuesta consiste en una plataforma digital accesible desde cualquier dispositivo con conexión a internet, mediante la cual los usuarios pueden interactuar con distintos dispositivos IoT instalados en su hogar, tales como sistemas de iluminación, sensores de movimiento, cámaras de seguridad, cerraduras electrónicas, sistemas de climatización, sistemas de monitoreo de piscina y electrodomésticos inteligentes.
+El software ofrece funcionalidades clave como:
+panel central de control (dashboard)
+gestión y organización de dispositivos
+control remoto de funciones
+automatización mediante rutinas programadas
+monitoreo en tiempo real del estado del hogar
+análisis del consumo energético
+La propuesta de la startup se basa en brindar una experiencia de usuario intuitiva y accesible, permitiendo simplificar la interacción con la tecnología doméstica y mejorar la calidad de vida de los usuarios.
+Además, el modelo de negocio contempla la oferta de servicios bajo suscripción, incluyendo un plan básico y un plan premium que incorpora funcionalidades avanzadas como automatizaciones inteligentes, alertas personalizadas, mantenimiento preventivo y reportes detallados de consumo.
+De esta manera, la startup busca no solo facilitar la gestión del hogar inteligente, sino también promover la eficiencia energética, la seguridad y la comodidad en la vida cotidiana de sus clientes.
+
       1. ### <a name="_heading=h.so7ggpcn42dv"></a>**Perfiles de integrantes del equipo**
+   El equipo está conformado por estudiantes de Ingeniería de Software con habilidades complementarias en desarrollo, diseño y gestión de proyectos, lo que permite abordar de manera integral la creación de la solución tecnológica propuesta.
+   
+Integrante 1:
+Nombre: Piero Leonardo Molina Falcón
+
+Código de estudiante: U201610857
+
+Carrera: Ingeniería de software 
+
+Descripción: Estudiante de Ingeniería de Software con formación en desarrollo de aplicaciones web, UI/UX, base de datos, conocimientos en programación, estructuras de datos y diseño de sistemas/software. Cuenta con comprensión de arquitecturas de software, desarrollo en el área backend y frontend. Destaca por la capacidad de análisis, pensamiento lógico y disposición para el aprendizaje continuo en entornos tecnológicos.
+
+Aporte al equipo: Ha participado en la definición del proyecto, la elaboración del Capítulo I del informe y la estructuración del Lean UX Process. Además, ha contribuido en la organización del equipo y en la distribución de tareas como team leader, asegurando el avance del proyecto de manera coordinada.
+
+
+
+Integrante 2:
+Nombre: Sebastián Gutarra Velapatiño
+
+
+Código de estudiante:
+
+Carrera:Ingeniería de Software
+
+Descripción:Enfocado en diseño de experiencia de usuario (UX/UI), responsable de la interacción y usabilidad.(Agregar conocimientos y habilidades que pueden aportar al grupo)
+Aporte al equipo:
+
+Integrante 3:
+Nombre: Luis German Tello Quispe
+
+Código de estudiante: U202317767
+
+Carrera: Ingeniería de Software
+
+Descripción:Orientado al análisis funcional, encargado de la definición de requerimientos y documentación. Actualmente cursando el ciclo 5 de la carrera, con conocimientos en diseño de bases de datos, diseño UI y conocimientos en programacion.
+
+Aporte al equipo:  Participe en la búsqueda y elaboración de user stories para nuestro proyecto, asi mismo para el desarrollo del impact mapping y product backlog. Además, realice los diagramas en modelo c4 para el proyecto.
+
    1. ## <a name="_heading=h.1m24yvgbflqv"></a>**Solution Profile**
       1. ### <a name="_heading=h.6jokok7g5pjs"></a>**Antecedentes y problemática**
+         
+         En los últimos años, el crecimiento del Internet de las Cosas (IoT) ha impulsado la adopción de dispositivos inteligentes en los hogares, tales como luces automatizadas, cámaras de seguridad, sensores de movimiento, sistemas de climatización y electrodomésticos conectados. Sin embargo, este avance tecnológico ha traído consigo una problemática importante: la fragmentación en la gestión de dispositivos.
+Muchos usuarios deben utilizar múltiples aplicaciones para controlar distintos dispositivos, lo que genera una experiencia poco eficiente, confusa y limitada. Además, existe una falta de herramientas accesibles que permitan integrar, automatizar y monitorear todos los dispositivos desde una sola plataforma.
+Para comprender mejor esta problemática, se aplica la metodología 5W2H, la cual permite analizar el problema de forma estructurada:
+
+     What (¿Qué está ocurriendo?)
+Los usuarios de hogares inteligentes enfrentan dificultades para gestionar sus dispositivos debido a la existencia de múltiples plataformas y aplicaciones independientes. Esto limita la eficiencia, la comodidad y el control integral del hogar.
+
+     Why (¿Por qué ocurre?)
+Porque cada fabricante de dispositivos IoT desarrolla su propia aplicación, lo que impide una integración unificada. Además, muchas soluciones existentes son complejas, poco intuitivas o requieren conocimientos técnicos avanzados.
+
+Where (¿Dónde ocurre?)
+Este problema se presenta en hogares que cuentan con dispositivos inteligentes, especialmente en aquellos donde se han adquirido productos de diferentes marcas o proveedores tecnológicos.
+
+     When (¿Cuándo ocurre?)
+Ocurre de manera constante durante el uso cotidiano de los dispositivos, especialmente cuando el usuario necesita controlar múltiples elementos del hogar o realizar tareas repetitivas sin automatización.
+
+     Who (¿Quiénes se ven afectados?)
+Propietarios de viviendas inteligentes
+Personas que desean convertir su hogar en smart home
+Técnicos o empresas de instalación domótica
+Usuarios con conocimientos tecnológicos básicos que buscan soluciones simples
+
+     How (¿Cómo ocurre?)
+La problemática se manifiesta a través de:
+uso de múltiples aplicaciones para diferentes dispositivos
+dificultad para monitorear el estado general del hogar
+falta de automatización centralizada
+procesos manuales repetitivos
+poca visibilidad del consumo energético 
+
+     How much (¿Qué impacto tiene?)
+El impacto incluye:
+pérdida de tiempo en la gestión de dispositivos
+reducción en la eficiencia del hogar
+menor aprovechamiento de la tecnología IoT
+aumento del consumo energético por falta de control
+frustración del usuario debido a la complejidad del sistema
+
+     Conclusión del análisis
+A partir del análisis, se identifica la necesidad de una solución que permita centralizar, simplificar y optimizar la gestión de dispositivos inteligentes en el hogar. En este contexto, la propuesta de una aplicación web como Smart Home HERA surge como una alternativa que busca integrar todos los dispositivos en una única plataforma, mejorando la experiencia del usuario y promoviendo la eficiencia, seguridad y comodidad.
+
+En base a la problemática identificada, se definen los siguientes objetivos de la solución:
+
+     Objetivos de la solución
+Desarrollar una aplicación web que centralice la gestión de dispositivos IoT
+Facilitar el control y monitoreo del hogar inteligente
+Permitir la automatización de tareas domésticas
+Mejorar la experiencia de usuario mediante una interfaz intuitiva
+
+     Restricciones del proyecto
+Dependencia de la compatibilidad con dispositivos IoT existentes
+Limitaciones de integración con APIs de terceros
+Necesidad de conexión a internet para el funcionamiento del sistema
+Alcance limitado a una aplicación web (no app móvil nativa)
+Tiempo y recursos del equipo de desarrollo
+
       1. ### <a name="_heading=h.aq79i3msu58b"></a>**Lean UX Process**
          1. #### ***Lean UX Problem Statements***
+         
+         Dentro del enfoque Lean UX, los Problem Statements permiten definir de manera clara y centrada en el usuario los principales problemas que la solución busca resolver. Estos enunciados ayudan a enfocar el diseño del producto en necesidades reales, evitando suposiciones y guiando el desarrollo hacia una experiencia de usuario efectiva.
+Para contextualizar los problemas identificados, se definen los siguientes elementos:
+
+Domain: Gestión de hogares inteligentes (IoT).
+Customer Segments: Propietarios, nuevos usuarios, técnicos.
+Pain Points: Fragmentación, falta de integración, complejidad.
+Gap: No existe una plataforma unificada simple.
+Visión: Centralizar y simplificar la gestión del hogar
+
+A partir de este contexto, se han identificado los siguientes Lean UX Problem Statements:
+
+Problem Statement 1
+Los propietarios de hogares inteligentes necesitan una forma sencilla y centralizada de gestionar todos sus dispositivos, ya que actualmente deben utilizar múltiples aplicaciones, lo que genera confusión, pérdida de tiempo y una experiencia poco eficiente.
+
+Problem Statement 2
+Los usuarios requieren visualizar el estado general de su hogar en tiempo real, debido a que no cuentan con una plataforma que les permita monitorear de forma integrada aspectos como iluminación, seguridad, temperatura y consumo energético.
+
+Problem Statement 3
+Las personas que desean automatizar su hogar necesitan herramientas intuitivas para programar rutinas, ya que las soluciones actuales suelen ser complejas o requieren conocimientos técnicos avanzados
+
+Problem Statement 4
+Los usuarios necesitan optimizar el consumo energético de sus hogares, pero no disponen de información clara ni de herramientas que les permitan analizar y controlar el uso de energía de sus dispositivos.
+
+Problem Statement 5
+Los técnicos y empresas de instalación domótica requieren una plataforma que facilite la gestión y monitoreo de múltiples hogares, ya que actualmente no cuentan con una solución unificada para brindar soporte eficiente a sus clientes.
+
+Estos Problem Statements reflejan las principales dificultades que enfrentan los usuarios en la gestión de hogares inteligentes. A partir de ellos, se orienta el diseño de la solución propuesta, enfocándose en la centralización, simplicidad de uso, automatización y eficiencia, elementos clave para mejorar la experiencia del usuario dentro del ecosistema IoT.
+
          1. #### ***Lean UX Assumptions***
          1. #### ***Lean UX Hypothesis Statements***
          1. #### ***Lean UX Canvas***
    1. ## <a name="_heading=h.u9rq93k9sjtu"></a>**Segmentos objetivo**
+
+      
 1. # <a name="_heading=h.mpt88vqezrd5"></a>**Capítulo II: Requirements Elicitation & Analysis**
    1. ## <a name="_heading=h.ljhxf313n4wx"></a>**Competidores**
       1. ### <a name="_heading=h.ujj48hrqdi0c"></a>**Análisis competitivo**
