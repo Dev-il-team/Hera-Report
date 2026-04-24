@@ -83,20 +83,22 @@ Equipo de profesionales con 15 años de experiencia en la automatización de esp
 [2.1.1](#_heading=h.ujj48hrqdi0c)[	](#_heading=h.ujj48hrqdi0c)Análisis competitivo	4
 
 **Competitive Analysis Landscape**
-
-Este análisis permite identificar diferencias frente a la competencia y descubrir aspectos de mejora para tomar decisiones inteligentes en beneficio de la empresa.
+Al completar este cuadro identificamos nuestras diferencias frente a la competencia y descubrimos en qué aspectos podemos mejorar para tomar decisiones inteligentes en beneficio de la empresa.
 
 | Criterio | Nuestro startup | Orvibo Perú | Smart House Perú | E-Activa |
 | :--- | :--- | :--- | :--- | :--- |
-| **Perfil** | Empresa tecnológica de aplicación web responsive para gestión integral de hogares inteligentes. | Proveedor de soluciones integrales para el hogar inteligente. | Empresa reconocida en soluciones tecnológicas y de confort de alta calidad. | Profesionales expertos en servicios de automatización de espacios residenciales. |
-| **Ventaja competitiva** | Plataforma centralizada para controlar, monitorear y optimizar la vivienda de forma sencilla y segura. | Más de 1000 patentes en paneles, iluminación y seguridad. | Productos exclusivos de tecnología de punta para confort y seguridad. | Alternativas tecnológicas de verdadera funcionalidad. |
-| **Mercado objetivo** | Propietarios de casas tradicionales y smart homes. | Propietarios de casas tradicionales y smart homes. | Propietarios de hogares inteligentes. | Propietarios que desean convertir su hogar en smart home. |
-| **Estrategias de marketing** | Publicidad en redes sociales y descuentos para primeros clientes. | Demostración de ahorro energético con datos reales. | Presencia en 4 países; pioneros en Latinoamérica. | Fortalecimiento del vínculo con el cliente a largo plazo. |
-| **Productos & Servicios** | Plataforma digital para interacción con dispositivos IoT. | Seguridad, luces, audio y jardines inteligentes. | Modernización de oficinas, residenciales e inmobiliarias. | Sensores, domótica y conectividad wi-fi. |
-| **Precios & Costos** | Precio base variable según el crecimiento del negocio. | No explícito; ofrecen descuentos en la web. | No explícito en su página web. | No explícito en su página web. |
+| **Perfil / Overview** | Empresa tecnológica dedicada al desarrollo de una aplicación web responsive para la gestión integral de hogares inteligentes. | Proveedor de soluciones integrales para el hogar inteligente. | Empresa reconocida en soluciones tecnológicas y de confort con altos estándares de calidad. | Equipo de profesionales experto en el servicio de automatización de espacios residenciales. |
+| **Ventaja competitiva** | Ofrecer una plataforma web para controlar, monitorear y optimizar dispositivos de manera sencilla, segura y eficiente. | Cuenta con más de 1000 patentes en paneles, iluminación, interruptores y seguridad. | Satisfacer necesidades de confort y seguridad con productos exclusivos de tecnología de punta. | Entregar alternativas tecnológicas de verdadera funcionalidad a sus clientes. |
+| **Mercado objetivo** | Propietarios de hogares inteligentes y de viviendas que desean automatizarse. | Propietarios de hogares inteligentes y de viviendas que desean automatizarse. | Propietarios de hogares inteligentes. | Propietarios de viviendas que desean automatizarse. |
+| **Estrategias de marketing** | Publicidad en redes sociales y descuentos para primeros clientes. | Demuestran con datos el ahorro energético real en casa. | Presencia en 4 países; primeros en establecerse en Latinoamérica. | Fortalecen el vínculo con sus clientes a lo largo de los años. |
+| **Productos & Servicios** | Plataforma digital para interacción con dispositivos IoT del hogar. | Seguridad, luces, audio y jardines inteligentes. | Automatización de oficinas, residenciales e inmobiliarias. | Sensores, domótica y conectividad wi-fi. |
+| **Precios & Costos** | Precio base variable acorde al desempeño del negocio. | No explícitos en web; ofrecen descuentos. | Su página web no es explícita con los precios. | Su página web no es explícita con los precios. |
 | **Canales de distribución** | Web y móvil. | Web y móvil. | Web y móvil. | Principalmente Web. |
-| **Análisis SWOT: Fortalezas** | Sencillez y facilidad de manejo de la plataforma. | Gran cantidad de agencias en Lima. | Cercanía con el cliente y descripción de valores. | Soporte técnico y solución de problemas en 48 horas. |
-| **Análisis SWOT: Debilidades** | Pocos usuarios para obtener métricas de mejora iniciales. | Diseño de landing page deficiente en videos. | Información de productos poco visible en la web. | Baja inversión en publicidad online/SEO. |
+| **Fortalezas** | Sencillez y facilidad de manejo de la plataforma. | Gran cantidad de agencias a lo largo de Lima. | Cercanía con el cliente al describir los valores de sus empleados. | Soporte técnico: indican solución de inconvenientes en máximo 48 horas. |
+| **Debilidades** | Pocos usuarios iniciales para obtener métricas de mejora. | Landing page con mal diseño en tamaño y ubicación de videos. | Información de productos poco visible en su landing page. | Aparece debajo de la competencia en búsquedas; falta inversión en publicidad. |
+| **Oportunidades** | Recomendación boca a boca de clientes satisfechos. | Tendencia creciente de los ciudadanos a modernizarse. | Opción de capacitación para trabajar con la empresa. | El mercado de la modernización tiene buen futuro. |
+| **Amenazas** | Líderes del mercado con mayor cantidad de usuarios fieles. | Imágenes engañosas que pueden generar críticas por altas expectativas. | Nombre genérico que puede ser pasado por alto en búsquedas. | No es exclusiva para domicilios, abarca también constructoras. |
+
 
 [2.1.2](#_heading=h.my5j2aczngvl)[	](#_heading=h.my5j2aczngvl)Estrategias y tácticas frente a competidores	4
 
