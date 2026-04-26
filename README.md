@@ -763,7 +763,7 @@ La identificación de estos tres segmentos permite enfocar el desarrollo del pro
 
    2. ## <a name="_heading=h.60m5bn8l7hr1"></a>**Impact Mapping**
 
-![t](https://discord.com/channels/1492318440168489033/1492318440998830240/1497384249404428351)
+![t](https://github.com/Dev-il-team/Hero-Report/blob/develop/assets/impactmappp.png)
 
    3. ## <a name="_heading=h.zg59gto95pem"></a>**Product Backlog**
 
