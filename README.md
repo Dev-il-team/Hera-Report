@@ -506,6 +506,42 @@ Durante el Sprint 1 el equipo Dev-il-team mantuvo la siguiente dinámica de cola
 | Alfaro Coveñas, Louis Piero | 10 | Web App – DeviceCard, Layout base |
 | Molina Falcon, Piero Leonardo | 7 | Web App – EnergyChart, mock data |
 
+### **5.2.2. Sprint 2**
+
+ 
+
+### **5.2.1.1. Sprint Planning 2**
+
+A continuación se presenta la planificación del siguiente Sprint del proyecto Hera, cuyo objetivo principal fue el desarrollo del resto del frontend y el consumo de datos mediante una fake api.
+
+ 
+
+| Sprint \# | Sprint 2 |
+| :---- | :---- |
+| Fecha de inicio | 07/05/2026 |
+| Fecha de fin | 13/05/2026 |
+| Sprint Goal | Desarrollar e implementar cada sección del frontend del proyecto Hera, su consumo de datos y muestre gráficos a partir de ello. |
+| Velocity | 30 Story Points |
+| Sum of Story Points | 30 Story Points |
+
+ 
+
+### **5.2.1.2. Sprint Backlog 2**
+
+El Sprint Backlog del Sprint 2 incluye las siguientes User Stories priorizadas para esta iteración:
+
+ 
+
+| Story ID | Título | Descripción | Horas Est. |
+| :---- | :---- | :---- | :---- |
+| US-16 | Ver panel de control | Como usuario quiero ver todos mis dispositivos en el dashboard | 5h |
+| US-18 | Control de iluminación | Como usuario quiero encender/apagar luces remotamente | 4h |
+| US-20 | Monitoreo de seguridad | Como usuario quiero recibir alertas de movimiento detectado | 6h |
+| US-24 | Landing page pública | Como visitante quiero conocer los servicios de Hera | 8h |
+| US-28 | Registro de usuario | Como usuario nuevo quiero crear una cuenta en la plataforma | 5h |
+
+
+
    1. ## <a name="_heading=h.gxn384yt4l0b"></a>**Validation Interviews**
       1. ### <a name="_heading=h.7n3fxroubvca"></a>**Diseño de Entrevistas**
       1. ### <a name="_heading=h.2v2sia1c5evx"></a>**Registro de Entrevistas**
