@@ -510,7 +510,7 @@ Durante el Sprint 1 el equipo Dev-il-team mantuvo la siguiente dinámica de cola
 
  
 
-### **5.2.1.1. Sprint Planning 2**
+### **5.2.2.1. Sprint Planning 2**
 
 A continuación se presenta la planificación del siguiente Sprint del proyecto Hera, cuyo objetivo principal fue el desarrollo del resto del frontend y el consumo de datos mediante una fake api.
 
@@ -526,7 +526,7 @@ A continuación se presenta la planificación del siguiente Sprint del proyecto 
 
  
 
-### **5.2.1.2. Sprint Backlog 2**
+### **5.2.2.2. Sprint Backlog 2**
 
 El Sprint Backlog del Sprint 2 incluye las siguientes User Stories priorizadas para esta iteración:
 
@@ -540,7 +540,31 @@ El Sprint Backlog del Sprint 2 incluye las siguientes User Stories priorizadas p
 | US-24 | Visualización de automatizaciones | Como propietario del hogar, deseo listar todas mis rutinas programadas para recordar qué procesos se ejecutan solos. | 4h |
 | US-28 | Resumen numérico de consumo | Como nuevo usuario, deseo visualizar una estimación de mi consumo energético del mes para tener noción de mi gasto. | 5h |
 
+### **5.2.2.3. Development Evidence for Sprint Review**
 
+Durante el Sprint 2 se realizaron los siguientes commits representativos en los repositorios del proyecto:
+
+ 
+
+| Repositorio | Branch | Commit Message | Fecha |
+| :---- | :---- | :---- | :---- |
+| Hera-Frontend | wip/frontend | feat(shared): add navbar, home and routing | 13/05/2026 |
+| Hera-Frontend | wip/frontend | feat: add dependencies and fake api | 13/05/2026 |
+| Hera-Frontend | feature/dev | feat: implement devices CRUD with axios and json-server | 13/05/2026 |
+| Hera-Frontend | feature/dev | feat(us16): implement real-time dashboard view | 13/05/2026 |
+
+### **5.2.2.4. Execution Evidence for Sprint Review**
+
+Durante este sprint se completaron exitosamente los siguientes entregables:
+ 
+
+•       El frontend de toda la página de Hera desplegada en producción.
+
+•       Implementar las operaciones CRUD, consumo de API y presentación de dichos datos.
+
+•       Sistema de internacionalización (i18n) implementado en JavaScript vanilla sin librerías externas.
+
+•       Repositorios organizados bajo la organización Dev-il-team en GitHub con estructura GitFlow activa.
 
    1. ## <a name="_heading=h.gxn384yt4l0b"></a>**Validation Interviews**
       1. ### <a name="_heading=h.7n3fxroubvca"></a>**Diseño de Entrevistas**
