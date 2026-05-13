@@ -534,11 +534,11 @@ El Sprint Backlog del Sprint 2 incluye las siguientes User Stories priorizadas p
 
 | Story ID | Título | Descripción | Horas Est. |
 | :---- | :---- | :---- | :---- |
-| US-16 | Ver panel de control | Como usuario quiero ver todos mis dispositivos en el dashboard | 5h |
-| US-18 | Control de iluminación | Como usuario quiero encender/apagar luces remotamente | 4h |
-| US-20 | Monitoreo de seguridad | Como usuario quiero recibir alertas de movimiento detectado | 6h |
-| US-24 | Landing page pública | Como visitante quiero conocer los servicios de Hera | 8h |
-| US-28 | Registro de usuario | Como usuario nuevo quiero crear una cuenta en la plataforma | 5h |
+| US-16 | Visualización de panel de control (Dashboard)| Como propietario del hogar, deseo visualizar un resumen del estado de mi casa en tiempo real para tomar decisiones rápidas. | 7h |
+| US-18 | Monitoreo visual de cámaras | Como nuevo usuario, deseo acceder a la transmisión de mis cámaras de seguridad para ver el estado de mi mascota desde el trabajo. | 3h |
+| US-20 | Notificaciones de alerta de seguridad | Como propietario del hogar, deseo recibir alertas visuales en la plataforma para reaccionar ante posibles riesgos detectados por los sensores. | 3h |
+| US-24 | Visualización de automatizaciones | Como propietario del hogar, deseo listar todas mis rutinas programadas para recordar qué procesos se ejecutan solos. | 4h |
+| US-28 | Resumen numérico de consumo | Como nuevo usuario, deseo visualizar una estimación de mi consumo energético del mes para tener noción de mi gasto. | 5h |
 
 
 
