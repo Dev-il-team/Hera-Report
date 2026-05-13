@@ -524,9 +524,17 @@ A continuación se presenta la planificación del siguiente Sprint del proyecto 
 | Velocity | 30 Story Points |
 | Sum of Story Points | 30 Story Points |
 
- 
+ ### **5.2.2.2. Aspect Leaders and Collaborators**
 
-### **5.2.2.2. Sprint Backlog 2**
+ | Team Member (Last Name, First Name) | GitHub Username  | Aspect Name 1 (L/C) |
+| ----------------------------------- | ---------------- | ------------------- |
+| Piero Molina           | PieroMFAL        | L                   |
+| Louis Alfaro            | LouisAlfaro       | C                   |
+| Luis Tello          | luistello1739-web       | C                   |
+| Sebastián Gutarra            | SebastianGutarra       | C                   |
+| Emilia Durán            | emiliadurans        | C                   |
+
+### **5.2.2.3. Sprint Backlog 2**
 
 El Sprint Backlog del Sprint 2 incluye las siguientes User Stories priorizadas para esta iteración:
 
@@ -540,7 +548,7 @@ El Sprint Backlog del Sprint 2 incluye las siguientes User Stories priorizadas p
 | US-24 | Visualización de automatizaciones | Como propietario del hogar, deseo listar todas mis rutinas programadas para recordar qué procesos se ejecutan solos. | 4h |
 | US-28 | Resumen numérico de consumo | Como nuevo usuario, deseo visualizar una estimación de mi consumo energético del mes para tener noción de mi gasto. | 5h |
 
-### **5.2.2.3. Development Evidence for Sprint Review**
+### **5.2.2.4. Development Evidence for Sprint Review**
 
 Durante el Sprint 2 se realizaron los siguientes commits representativos en los repositorios del proyecto:
 
@@ -553,7 +561,7 @@ Durante el Sprint 2 se realizaron los siguientes commits representativos en los 
 | Hera-Frontend | feature/dev | feat: implement devices CRUD with axios and json-server | 13/05/2026 |
 | Hera-Frontend | feature/dev | feat(us16): implement real-time dashboard view | 13/05/2026 |
 
-### **5.2.2.4. Execution Evidence for Sprint Review**
+### **5.2.2.5. Execution Evidence for Sprint Review**
 
 Durante este sprint se completaron exitosamente los siguientes entregables:
  
@@ -565,6 +573,50 @@ Durante este sprint se completaron exitosamente los siguientes entregables:
 •       Sistema de internacionalización (i18n) implementado en JavaScript vanilla sin librerías externas.
 
 •       Repositorios organizados bajo la organización Dev-il-team en GitHub con estructura GitFlow activa.
+
+### **5.2.2.6. Services Documentation Evidence for Sprint Review**
+
+| Nombre de Endpoint | Acciones Implementadas | Sintaxis de llamada                                       | Especificación de parámetros                                                                                           | Explicación del Response                  |
+| ------------------ | ---------------------- | --------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------- |
+| services         | GET                    | `` var response = await axios.get(`${ServicesAPI}`)  `` | Se necesita la creacion de .env con la URL de la API  | Se retorna toda la informacion de la API. |
+
+
+### **5.2.2.7. Software Deployment Evidence for Sprint Review**
+
+El despliegue del Sprint 2 se realizó de la siguiente manera:
+
+
+
+ 
+
+ 
+
+### **5.2.2.8. Team Collaboration Insights during Sprint**
+
+Durante el Sprint 2 el equipo Dev-il-team mantuvo la siguiente dinámica de colaboración:
+
+ 
+
+•       Reuniones diarias de 15 minutos (stand-up) mediante Discord para sincronizar avances y resolver bloqueos.
+
+•       Tablero de Trello actualizado diariamente: To Do / In Progress / Done.
+
+•       2 sesiones de Code Review mediante Pull Requests en GitHub con comentarios y aprobaciones cruzadas.
+
+•       Todos los integrantes realizaron commits al repositorio, evidenciando participación activa en el sprint.
+
+•       Decisiones técnicas documentadas en el canal \#decisions del servidor Discord del equipo.
+
+ 
+
+| Integrante | Commits (Sprint 2\) | Area de contribucion |
+| :---- | :---- | :---- |
+| Molina Falcon, Piero Leonardo | 9 | Devices |
+| Gutarra Velapatiño, Sebastián Ernesto | 5 | Automation |
+| Tello Quispe, Luis Germán | 5 | Devices IOT |
+| Alfaro Coveñas, Louis Piero | 6 | Shared |
+| Durán, Emilia | 9 | Develop |
+
 
    1. ## <a name="_heading=h.gxn384yt4l0b"></a>**Validation Interviews**
       1. ### <a name="_heading=h.7n3fxroubvca"></a>**Diseño de Entrevistas**
