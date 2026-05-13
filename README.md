@@ -249,13 +249,13 @@ Alfaro Coveñas, Louis Piero (u20191b299)
    1. ## <a name="_heading=h.gt5ce9a9u843"></a>**Database Design**
       1. ### <a name="_heading=h.id6qkfacivqe"></a>**Database Diagrams**
 1. # **Capítulo V: Product Implementation, Validation & Deployment** {#capítulo-v:-product-implementation,-validation-&-deployment}
-   1. ## <a name="_heading=h.rl921vfr5x5t"></a>**Software Configuration Management**
+   ## <a name="_heading=h.rl921vfr5x5t"></a>**5.1. Software Configuration Management**
   Esta sección describe las herramientas, convenciones y configuraciones adoptadas por el equipo Dev-il-team para asegurar consistencia, trazabilidad y calidad del código fuente durante todo el ciclo de vida del proyecto Hera.
    
- 1. ### <a name="_heading=h.wciwa96dqhjz"></a>**Software Development Environment Configuration**
+ ### <a name="_heading=h.wciwa96dqhjz"></a>**5.1.1. Software Development Environment Configuration**
 A continuación se listan los productos de software utilizados por cada integrante del equipo para el desarrollo, diseño, gestión y despliegue del proyecto:
       
-   1. ### <a name="_heading=h.sxm29qydtv5w"></a>**Source Code Management**
+ ### <a name="_heading=h.sxm29qydtv5w"></a>**5.1.2. Source Code Management**
 **Project Management**
 
 •       Trello (https://trello.com) – Gestión de tareas y seguimiento del Product Backlog mediante tableros Kanban.
@@ -263,6 +263,8 @@ A continuación se listan los productos de software utilizados por cada integran
 •       Discord – Canal principal de comunicación sincrónica para reuniones diarias y revisiones de sprint.
 
 •       Google Meet – Videoconferencias para reuniones formales con el equipo.
+
+
 **Requirements Management**
 
 •       Google Docs – Redacción colaborativa del informe, User Stories e Impact Maps.
@@ -293,7 +295,7 @@ A continuación se listan los productos de software utilizados por cada integran
 
 •       GitHub Pages (https://pages.github.com) – Hosting para el despliegue de la Landing Page estática.
       
- 1. ### <a name="_heading=h.entremi3v14m"></a>**Source Code Style Guide & Conventions**
+### <a name="_heading=h.entremi3v14m"></a>**5.1.3. Source Code Style Guide & Conventions**
 El equipo utiliza Git como sistema de control de versiones distribuido y GitHub como plataforma de alojamiento de repositorios. Se han creado repositorios diferenciados para cada componente del proyecto.
 
  
@@ -348,7 +350,7 @@ refactor: extract device card into reusable component
 
 Se aplica Semantic Versioning (SemVer) para los releases: MAJOR.MINOR.PATCH. La versión inicial del entregable corresponde a v1.0.0.
       
- 1. ### <a name="_heading=h.ogohwao3lwy5"></a>**Software Deployment Configuration**
+### <a name="_heading=h.ogohwao3lwy5"></a>**5.1.4. Software Deployment Configuration**
 El equipo establece las siguientes convenciones de codificación para garantizar uniformidad y mantenibilidad:
 
  
