@@ -248,9 +248,9 @@ Alfaro Coveñas, Louis Piero (u20191b299)
       1. ### <a name="_heading=h.nbmdm9mz8i1x"></a>**Class Diagrams**
    1. ## <a name="_heading=h.gt5ce9a9u843"></a>**Database Design**
       1. ### <a name="_heading=h.id6qkfacivqe"></a>**Database Diagrams**
-1. # <a name="_heading=h.vs16l3cu2sa"></a>**Capítulo V: Product Implementation, Validation & Deployment**
+5. # **Capítulo V: Product Implementation, Validation & Deployment** {#capítulo-v:-product-implementation,-validation-&-deployment}
 
-1. ## **Software Configuration Management** {#software-configuration-management}
+   1. ## **Software Configuration Management** {#software-configuration-management}
 
    
 
