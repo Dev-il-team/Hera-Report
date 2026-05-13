@@ -18,15 +18,22 @@
 
 **Startup:** Dev-il-team
 
-**Nombre del Producto**: Hero
+**Nombre del Producto**: Hera
 
 **Integrantes**:
 
 
 Alfaro Coveñas, Louis Piero (u20191b299)
 <br>
+Gutarra Velapatiño, Sebastián Ernesto (U20241A314)
+<br>
+Tello Quispe, Luis Germán
+<br>
+Alfaro Coveñas, Louis Piero
+<br>
+Durán, Emilia
 
-**Abril del 2026**
+**Mayo del 2026**
 
 </div>
 
@@ -435,7 +442,7 @@ Durante este sprint se completaron exitosamente los siguientes entregables:
 
  
 
-•       Landing Page desplegada en producción: https://dev-il-team.github.io/hera-landing-page
+•       Landing Page desplegada en producción: [https://dev-il-team.github.io/hera-landing-page](https://dev-il-team.github.io/Hera-LandingPage/)
 
 •       La Landing Page incluye las secciones: Hero, Servicios, Beneficios, Planes y Contacto, con soporte bilingüe completo.
 
@@ -444,8 +451,6 @@ Durante este sprint se completaron exitosamente los siguientes entregables:
 •       Repositorios organizados bajo la organización Dev-il-team en GitHub con estructura GitFlow activa.
 
  
-
- URL LANDING PAGE: [https://dev-il-team.github.io/Hera-LandingPage/](https://dev-il-team.github.io/Hera-LandingPage/)
 
 ![][image62]
 
@@ -496,10 +501,10 @@ Durante el Sprint 1 el equipo Dev-il-team mantuvo la siguiente dinámica de cola
 | Integrante | Commits (Sprint 1\) | Area de contribucion |
 | :---- | :---- | :---- |
 | Molina Falcon, Piero Leonardo | 12 | Landing Page – Hero, Nav, Footer |
-| Integrante 2 | 9 | Landing Page – Servicios, Planes |
-| Integrante 3 | 8 | Landing Page – Beneficios, Contacto |
-| Integrante 4 | 10 | Web App – DeviceCard, Layout base |
-| Integrante 5 | 7 | Web App – EnergyChart, mock data |
+| Gutarra Velapatiño, Sebastián Ernesto | 9 | Landing Page – Servicios, Planes |
+| Tello Quispe, Luis Germán | 8 | Landing Page – Beneficios, Contacto |
+| Alfaro Coveñas, Louis Piero | 10 | Web App – DeviceCard, Layout base |
+| Molina Falcon, Piero Leonardo | 7 | Web App – EnergyChart, mock data |
 
    1. ## <a name="_heading=h.gxn384yt4l0b"></a>**Validation Interviews**
       1. ### <a name="_heading=h.7n3fxroubvca"></a>**Diseño de Entrevistas**
