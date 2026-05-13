@@ -528,11 +528,11 @@ A continuación se presenta la planificación del siguiente Sprint del proyecto 
 
  | Team Member (Last Name, First Name) | GitHub Username  | Aspect Name 1 (L/C) |
 | ----------------------------------- | ---------------- | ------------------- |
-| Piero Molina           | PieroMFAL        | L                   |
-| Louis Alfaro            | LouisAlfaro       | C                   |
-| Luis Tello          | luistello1739-web       | C                   |
-| Sebastián Gutarra            | SebastianGutarra       | C                   |
-| Emilia Durán            | emiliadurans        | C                   |
+| Molina, Piero           | PieroMFAL        | L                   |
+| Alfaro. Louis           | LouisAlfaro       | C                   |
+| Tello, Luis          | luistello1739-web       | C                   |
+| Gutarra, Sebastián            | SebastianGutarra       | C                   |
+| Durán, Emilia            | emiliadurans        | C                   |
 
 ### **5.2.2.3. Sprint Backlog 2**
 
@@ -577,7 +577,7 @@ Durante este sprint se completaron exitosamente los siguientes entregables:
 ### **5.2.2.6. Services Documentation Evidence for Sprint Review**
 
 | Nombre de Endpoint | Acciones Implementadas | Sintaxis de llamada                                       | Especificación de parámetros                                                                                           | Explicación del Response                  |
-| ------------------ | ---------------------- | --------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------- |
+| ------------------ | ---------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
 | services         | GET                    | `` var response = await axios.get(`${ServicesAPI}`)  `` | Se necesita la creacion de .env con la URL de la API  | Se retorna toda la informacion de la API. |
 
 
